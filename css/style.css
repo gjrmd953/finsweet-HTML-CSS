@@ -419,6 +419,10 @@ img{
     text-align: center;
     color: #161722;
 }
+.SHARE_main{
+    /* display: flex; */
+     /* justify-content: space-between; */
+}
 /* shear part end */
 
 /* footer part start */
