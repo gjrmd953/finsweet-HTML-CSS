@@ -420,8 +420,8 @@ img{
     color: #161722;
 }
 .SHARE_main{
-    /* display: flex; */
-     /* justify-content: space-between; */
+    display: flex;
+     justify-content: space-between;
 }
 /* shear part end */
 
