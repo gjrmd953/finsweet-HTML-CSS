@@ -423,6 +423,10 @@ img{
     display: flex;
      justify-content: space-between;
 }
+.SHARE_item{
+    width: 24%;
+    background-color: #FFF5EB;
+}
 /* shear part end */
 
 /* footer part start */
