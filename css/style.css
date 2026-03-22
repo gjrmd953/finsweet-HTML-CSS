@@ -409,6 +409,15 @@ img{
     font-family: "Roboto Condensed", serif;
     font-weight: normal;
     text-align: center;
+    color: #161722;
+}
+.SHARE_head h2{
+    padding-bottom: 64px;
+    font-size: 48px;
+    font-family: "Roboto Condensed", serif;
+    font-weight: bold;
+    text-align: center;
+    color: #161722;
 }
 /* shear part end */
 
