@@ -398,6 +398,12 @@ img{
 }
 /* great part end */
 
+/* shear part start */
+.SHARE_head{
+    padding: 128px;
+}
+/* shear part end */
+
 /* footer part start */
 #footer{
     background-color: #161722;
