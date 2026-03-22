@@ -158,6 +158,7 @@ img{
     text-transform: none;
 }
 /* service part end */
+
 /* love part start */
 #love{
     padding-bottom: 128px;
@@ -252,6 +253,7 @@ img{
     font-weight: normal;
 }
 /* love part end */
+
 /* benifit part start */
 #benifit{
     padding: 128px;
@@ -395,3 +397,9 @@ img{
     width: 60%;
 }
 /* great part end */
+
+/* footer part start */
+#footer{
+    background-color: #161722;
+}
+/* footer part end */
