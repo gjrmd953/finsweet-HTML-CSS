@@ -402,6 +402,14 @@ img{
 .SHARE_head{
     padding: 128px;
 }
+
+.SHARE_head h4{
+    padding-bottom: 16px;
+    font-size: 16px;
+    font-family: "Roboto Condensed", serif;
+    font-weight: normal;
+    text-align: center;
+}
 /* shear part end */
 
 /* footer part start */
