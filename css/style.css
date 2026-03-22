@@ -427,6 +427,15 @@ img{
     width: 24%;
     background-color: #FFF5EB;
 }
+.SHARE_item h5{
+    padding-top: 48px;
+    padding-left: 32px;
+    color: #DC9853;
+    font-family: "Roboto Condensed", serif;
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
 /* shear part end */
 
 /* footer part start */
