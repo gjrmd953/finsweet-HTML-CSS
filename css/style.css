@@ -387,8 +387,14 @@ img{
     font-family: "Roboto Condensed", serif;
     font-weight: normal;
 }
+.grt_itm_one_tex p img{
+    margin-right: 16px;
+}
+.grt_itm_one_tex p span{
+    padding-left: 40px;
+}
 .grt_itm_one_tex a{
-    padding: 24px 44px;
+    padding: 20px 44px;
     background-color: black;
     color: #FFD2A4;
     border-radius: 12px;
