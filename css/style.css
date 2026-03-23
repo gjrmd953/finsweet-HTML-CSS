@@ -454,6 +454,14 @@ img{
     font-size: 16px;
     font-weight: normal;
 }
+.SHARE_item h4{
+    padding-left: 32px;
+    padding-bottom: 4px;
+    color: #161722;
+    font-family: "Roboto Condensed", serif;
+    font-size: 18px;
+    font-weight: normal;
+}
 /* shear part end */
 
 /* footer part start */
