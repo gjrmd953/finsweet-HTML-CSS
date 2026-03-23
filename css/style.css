@@ -399,8 +399,8 @@ img{
 /* great part end */
 
 /* shear part start */
-.SHARE_head{
-    padding: 128px;
+#SHARE{
+    padding-bottom: 128px;
 }
 
 .SHARE_head h4{
