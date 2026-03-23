@@ -446,6 +446,14 @@ img{
     font-weight: bold;
     text-transform: uppercase;
 }
+.SHARE_item p{
+    padding-left: 32px;
+    padding-bottom: 48px;
+    color: #161722;
+    font-family: "Roboto Condensed", serif;
+    font-size: 16px;
+    font-weight: normal;
+}
 /* shear part end */
 
 /* footer part start */
