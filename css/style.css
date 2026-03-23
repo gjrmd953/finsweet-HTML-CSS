@@ -354,7 +354,7 @@ img{
     display: flex;
 }
 .grt_itm_one{
-    width: 30%;
+    width: 32%;
 }
 .grt_itm_one{
     background-color: #FFF5EB;
@@ -388,13 +388,13 @@ img{
     font-weight: normal;
 }
 .grt_itm_one_tex a{
-    padding: 24px 34px;
+    padding: 24px 44px;
     background-color: black;
     color: #FFD2A4;
     border-radius: 12px;
 }
 .grt_itm_two{
-    width: 60%;
+    width: 58%;
 }
 /* great part end */
 
