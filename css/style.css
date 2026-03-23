@@ -439,6 +439,7 @@ img{
 .SHARE_item h2{
     padding-top: 16px;
     padding-left: 32px;
+    padding-bottom: 16px;
     color: #161722;
     font-family: "Roboto Condensed", serif;
     font-size: 24px;
