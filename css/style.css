@@ -486,4 +486,8 @@ img{
 #footer{
     background-color: #161722;
 }
+.footer_main{
+    display: flex;
+    justify-content: space-between;
+}
 /* footer part end */
