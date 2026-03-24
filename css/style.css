@@ -670,5 +670,31 @@ img {
     text-transform: uppercase;
 }
 
+/*  */
+.email {
+    display: flex;
+    max-width: 400px;
+    border: 1px solid #FFFFFF;
+    border-radius: 6px;
+    overflow: hidden;
+}
+
+.email input {
+    flex: 1;
+    padding: 20px 30px;
+    background-color: #161722;
+    border: none;
+    outline: none;
+}
+
+.email button {
+    padding: 20px 40px;
+    border: none;
+    background-color: #FFD2A4;
+    color: #1C1D28;
+    cursor: pointer;
+    border-radius: 8px;
+}
+/*  */
 
 /* footer part end */
