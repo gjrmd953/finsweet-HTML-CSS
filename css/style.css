@@ -596,6 +596,7 @@ img {
     font-weight: normal;
     text-transform: uppercase;
 }
+
 .footer_left h3 {
     padding-bottom: 16px;
     color: #FFFFFF;
@@ -604,11 +605,30 @@ img {
     font-weight: normal;
     text-transform: uppercase;
 }
+
 .footer_left h4 {
     padding-bottom: 16px;
     color: #FFFFFF;
     font-family: "Roboto Condensed", serif;
     font-size: 12px;
+    font-weight: normal;
+    text-transform: uppercase;
+}
+
+.footer_left h5 {
+    padding-bottom: 16px;
+    color: #FFFFFF;
+    font-family: "Roboto Condensed", serif;
+    font-size: 12px;
+    font-weight: normal;
+    text-transform: uppercase;
+}
+
+.footer_medil_left h2 {
+    padding-bottom: 20px;
+    color: #FFFFFF;
+    font-family: "Roboto Condensed", serif;
+    font-size: 16px;
     font-weight: normal;
     text-transform: uppercase;
 }
