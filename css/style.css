@@ -656,8 +656,18 @@ img {
     font-weight: normal;
     text-transform: uppercase;
 }
-.icon img{
-    margin:10px;
+
+.icon img {
+    margin-right: 8px;
+}
+
+.footer_right h2 {
+    padding-bottom: 32px;
+    color: #FFFFFF;
+    font-family: "Roboto Condensed", serif;
+    font-size: 32px;
+    font-weight: bold;
+    text-transform: uppercase;
 }
 
 
