@@ -632,6 +632,7 @@ img {
     font-weight: normal;
     text-transform: uppercase;
 }
+
 .footer_medil_left a {
     padding-bottom: 20px;
     color: #FFFFFF;
@@ -640,10 +641,20 @@ img {
     font-weight: normal;
     text-transform: uppercase;
 }
+
 .footer_medil_left {
     display: flex;
     flex-direction: column;
     gap: 5px;
+}
+
+.footer_medil_right h2 {
+    padding-bottom: 20px;
+    color: #FFFFFF;
+    font-family: "Roboto Condensed", serif;
+    font-size: 16px;
+    font-weight: normal;
+    text-transform: uppercase;
 }
 
 /* footer part end */
