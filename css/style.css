@@ -587,9 +587,17 @@ img {
     padding-bottom: 72px;
 }
 
-.footer_iner h2 {
+.footer_left h2 {
     margin-top: 16px;
     padding-bottom: 32px;
+    color: #FFFFFF;
+    font-family: "Roboto Condensed", serif;
+    font-size: 12px;
+    font-weight: normal;
+
+}
+.footer_left h3 {
+    padding-bottom: 16px;
     color: #FFFFFF;
     font-family: "Roboto Condensed", serif;
     font-size: 12px;
