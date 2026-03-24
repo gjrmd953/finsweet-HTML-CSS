@@ -656,5 +656,9 @@ img {
     font-weight: normal;
     text-transform: uppercase;
 }
+.icon img{
+    margin:10px;
+}
+
 
 /* footer part end */
