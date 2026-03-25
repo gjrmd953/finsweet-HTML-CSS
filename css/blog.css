@@ -71,9 +71,16 @@ img {
 
 /* nav part end */
 
+/* blog part start */
+#blog{
+    background-color: #F5F2F0;
+    padding: 128px;
+}
+/* blog part end */
+
 
 /* love part start */
-#love {
+/* #love {
     padding-bottom: 128px;
 }
 
@@ -134,7 +141,6 @@ img {
 }
 
 .love_m_btn {
-    /* text-align: center; */
     position: absolute;
     left: 50%;
     transform: translate(-50%);
@@ -192,7 +198,7 @@ img {
     font-size: 16px;
     font-family: "Roboto Condensed", serif;
     font-weight: normal;
-}
+} */
 /* love part end *
 
 /* footer part start */
