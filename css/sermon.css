@@ -175,3 +175,131 @@ img{
     font-weight: normal;
 }
 /* love part end */
+
+
+/* footer part start */
+#footer {
+    background-color: #161722;
+}
+
+.footer_main {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer_item {
+    padding-top: 64px;
+    padding-bottom: 72px;
+}
+
+.footer_left h2 {
+    margin-top: 16px;
+    padding-bottom: 32px;
+    color: #FFFFFF;
+    font-family: "Roboto Condensed", serif;
+    font-size: 12px;
+    font-weight: normal;
+    text-transform: uppercase;
+}
+
+.footer_left h3 {
+    padding-bottom: 18px;
+    color: #FFFFFF;
+    font-family: "Roboto Condensed", serif;
+    font-size: 12px;
+    font-weight: normal;
+    text-transform: uppercase;
+}
+
+.footer_left h4 {
+    padding-bottom: 18px;
+    color: #FFFFFF;
+    font-family: "Roboto Condensed", serif;
+    font-size: 12px;
+    font-weight: normal;
+    text-transform: uppercase;
+}
+
+.footer_left h5 {
+    color: #FFFFFF;
+    font-family: "Roboto Condensed", serif;
+    font-size: 12px;
+    font-weight: normal;
+    text-transform: uppercase;
+}
+
+.footer_medil_left h2 {
+    padding-bottom: 20px;
+    color: #FFFFFF;
+    font-family: "Roboto Condensed", serif;
+    font-size: 16px;
+    font-weight: normal;
+    text-transform: uppercase;
+}
+
+.footer_medil_left a {
+    padding-bottom: 20px;
+    color: #FFFFFF;
+    font-family: "Roboto Condensed", serif;
+    font-size: 12px;
+    font-weight: normal;
+    text-transform: uppercase;
+}
+
+.footer_medil_left {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.footer_medil_right h2 {
+    padding-bottom: 20px;
+    color: #FFFFFF;
+    font-family: "Roboto Condensed", serif;
+    font-size: 16px;
+    font-weight: normal;
+    text-transform: uppercase;
+}
+
+.icon img {
+    margin-right: 8px;
+    cursor: pointer;
+}
+
+.footer_right h2 {
+    padding-bottom: 32px;
+    color: #FFFFFF;
+    font-family: "Roboto Condensed", serif;
+    font-size: 32px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+/* email from */
+.email {
+    display: flex;
+    max-width: 400px;
+    border: 1px solid #FFFFFF;
+    border-radius: 6px;
+    overflow: hidden;
+}
+
+.email input {
+    flex: 1;
+    padding: 20px 30px;
+    background-color: #161722;
+    border: none;
+    outline: none;
+}
+
+.email button {
+    padding: 20px 40px;
+    border: none;
+    background-color: #FFD2A4;
+    color: #1C1D28;
+    cursor: pointer;
+    border-radius: 8px;
+}
+/*email from */
+
+/* footer part end */
