@@ -598,7 +598,7 @@ img {
 }
 
 .footer_left h3 {
-    padding-bottom: 16px;
+    padding-bottom: 18px;
     color: #FFFFFF;
     font-family: "Roboto Condensed", serif;
     font-size: 12px;
@@ -607,7 +607,7 @@ img {
 }
 
 .footer_left h4 {
-    padding-bottom: 16px;
+    padding-bottom: 18px;
     color: #FFFFFF;
     font-family: "Roboto Condensed", serif;
     font-size: 12px;
@@ -616,7 +616,6 @@ img {
 }
 
 .footer_left h5 {
-    padding-bottom: 16px;
     color: #FFFFFF;
     font-family: "Roboto Condensed", serif;
     font-size: 12px;
@@ -659,6 +658,7 @@ img {
 
 .icon img {
     margin-right: 8px;
+    cursor: pointer;
 }
 
 .footer_right h2 {
@@ -670,7 +670,7 @@ img {
     text-transform: uppercase;
 }
 
-/*  */
+/* email from */
 .email {
     display: flex;
     max-width: 400px;
@@ -695,6 +695,6 @@ img {
     cursor: pointer;
     border-radius: 8px;
 }
-/*  */
+/*email from */
 
 /* footer part end */
