@@ -150,6 +150,7 @@ img {
 .blog_main{
     display: flex;
     justify-content: space-between;
+    padding-bottom: 24px;
 }
 
 .blog_post_item {
