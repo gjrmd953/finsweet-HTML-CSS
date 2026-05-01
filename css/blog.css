@@ -145,6 +145,12 @@ img {
     text-transform: uppercase;
     text-align: center;
 }
+
+
+.blog_main{
+    display: flex;
+    justify-content: space-between;
+}
 /* blog part end */
 
 
