@@ -205,7 +205,8 @@ img {
     height: 16px;
     background-color: #FFD0A0;
 }
-.blog_post_iner_last{
+.blog_post_item_last{
+    width: 24%;
     background-color: #F5F2F0;
 }
 /* blog part end */
