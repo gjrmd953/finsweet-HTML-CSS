@@ -199,6 +199,11 @@ img {
     font-size: 16px;
     font-weight: normal;
 }
+
+.div {
+    height: 16px;
+    background-color: #FFD0A0;
+}
 /* blog part end */
 
 
