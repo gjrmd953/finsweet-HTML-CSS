@@ -151,6 +151,20 @@ img {
     display: flex;
     justify-content: space-between;
 }
+
+.blog_post_item {
+    width: 24%;
+    background-color: #FFF5EB;
+}
+.blog_post_iner h5 {
+    padding-top: 48px;
+    padding-left: 32px;
+    color: #DC9853;
+    font-family: "Roboto Condensed", serif;
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
 /* blog part end */
 
 
